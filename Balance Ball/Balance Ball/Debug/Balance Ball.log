@@ -1,0 +1,6 @@
+﻿  ball.cpp
+f:\bfci\third year\second term\graphics\project\balance ball\balance ball\ball.cpp(15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+f:\bfci\third year\second term\graphics\project\balance ball\balance ball\ball.cpp(17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+f:\bfci\third year\second term\graphics\project\balance ball\balance ball\ball.cpp(18): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  LINK : F:\BFCI\Third Year\Second Term\Graphics\Project\Balance Ball\Debug\Balance Ball.exe not found or not built by the last incremental link; performing full link
+  Balance Ball.vcxproj -> F:\BFCI\Third Year\Second Term\Graphics\Project\Balance Ball\Debug\Balance Ball.exe
